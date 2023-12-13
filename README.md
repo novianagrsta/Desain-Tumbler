@@ -15,7 +15,9 @@ Pastikan telah terpasang beberapa pustaka Python berikut sebelum menjalankan pro
    - Masukkan dua citra: citra botol tumbler yang akan di-customize dan citra warna/desain pola yang ingin diaplikasikan pada tumbler.
   
 2. **Jalankan Program:**
-   - Buka terminal dan jalankan program Python: `python customize_tumbler.py`.
+   - Buka terminal dan jalankan program Python: `app.py`.
+   - Jalankan streamlit run c:\xampp\htdocs\Desain-Tumbler\app.py
+   - Kemudian jalnkan Streamlit app di browser.
   
 3. **Input Citra:**
    - Program akan meminta masukan citra botol tumbler dan citra desain pola yang diinginkan.
@@ -25,7 +27,3 @@ Pastikan telah terpasang beberapa pustaka Python berikut sebelum menjalankan pro
 
 5. **Hasil Akhir:**
    - Setelah proses selesai, program akan menampilkan citra hasil transformasi berupa tampilan botol tumbler dengan desain yang sudah di-customize.
-
-## Uji Coba Program
-
-Anda juga dapat mencoba program ini dengan memasukkan beberapa citra desain yang berbeda untuk melihat hasilnya. Pastikan citra memiliki format yang didukung oleh program dan sesuaikan dengan ketentuan yang diminta.
