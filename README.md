@@ -17,7 +17,7 @@ Pastikan telah terpasang beberapa pustaka Python berikut sebelum menjalankan pro
 2. **Jalankan Program:**
    - Buka terminal dan jalankan program Python: `app.py`.
    - Jalankan streamlit run c:\xampp\htdocs\Desain-Tumbler\app.py
-   - Kemudian jalnkan Streamlit app di browser.
+   - Kemudian jalankan Streamlit app di browser.
   
 3. **Input Citra:**
    - Program akan meminta masukan citra botol tumbler dan citra desain pola yang diinginkan.
